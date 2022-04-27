@@ -14,7 +14,7 @@
     "ejs-lint": "^1.1.0",
     "express": "^4.17.1",
     "express-myconnection": "^1.0.4",
-    "grunt": "^1.2.1",
+    "grunt": "^1.5.2",
     "morgan": "^1.10.0",
     "mysql": "^2.18.1"
   },
